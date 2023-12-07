@@ -12,4 +12,5 @@ El objetivo de este repositorio es el de servir de ayuda a quien lo vea, pero ta
 
 | Día | Solución | Puntuación |
 |-----|----------|------------|
-| 1   | [¡Primer regalo repetido!]() | 260 puntos |
+| 1   | [¡Primer regalo repetido!](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%201) | 260 puntos |
+| 2   | [Ponemos en marcha la fabrica](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%202) | 270 puntos|
