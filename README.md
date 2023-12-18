@@ -18,4 +18,17 @@ El objetivo de este repositorio es el de servir de ayuda a quien lo vea, pero ta
 | 4   | [Dale la vuelta a los paréntesis](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%204) | 260 puntos|
 | 5   |  | |
 | 6   | [Los renos a prueba](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%206) | 350 puntos|
+| 7   |  | |
+| 8   |  | |
+| 9   | [Alterna las luces](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%209) | 380 puntos|
+| 10   | [Crea tu propio árbol de navidad](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%210) | 170 puntos|
+| 11   | | |
+| 12   | | |
+| 13   | [Calculando el tiempo](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%213) | 260 puntos|
+| 14   |  | |
+| 15   |  | |
+| 16   |  | |
+| 17   | [Optimizando el alquiler](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%217) | 140 puntos|
+| 18   | | |
+
 
