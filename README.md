@@ -16,3 +16,6 @@ El objetivo de este repositorio es el de servir de ayuda a quien lo vea, pero ta
 | 2   | [Ponemos en marcha la fabrica](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%202) | 270 puntos|
 | 3   | [El elfo travieso](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%203) | 360 puntos|
 | 4   | [Dale la vuelta a los paréntesis](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%204) | 260 puntos|
+| 5   |  | |
+| 6   | [Los renos a prueba](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%206) | 350 puntos|
+
