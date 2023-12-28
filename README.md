@@ -22,7 +22,7 @@ El objetivo de este repositorio es el de servir de ayuda a quien lo vea, pero ta
 | 8   | [Ordenando el almacén](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%208) | 130 puntos|
 | 9   | [Alterna las luces](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%209) | 380 puntos|
 | 10   | [Crea tu propio árbol de navidad](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2010) | 170 puntos|
-| 11   | | |
+| 11   | [Los elfos estudiosos](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2011)| 200 puntos|
 | 12   | | |
 | 13   | [Calculando el tiempo](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2013) | 260 puntos|
 | 14   |  | |
