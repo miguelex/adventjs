@@ -27,7 +27,7 @@ El objetivo de este repositorio es el de servir de ayuda a quien lo vea, pero ta
 | 13   | [Calculando el tiempo](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2013) | 260 puntos|
 | 14   | [Evita la alarma](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2014)| 160 puntos|
 | 15   | [Robot autónomo](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2015) | 25 puntos|
-| 16   |  | |
+| 16   |  [Despliegue en viernes](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2016) | 25 puntos|
 | 17   | [Optimizando el alquiler](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2017) | 140 puntos|
 | 18   | | |
 
