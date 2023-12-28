@@ -16,10 +16,10 @@ El objetivo de este repositorio es el de servir de ayuda a quien lo vea, pero ta
 | 2   | [Ponemos en marcha la fabrica](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%202) | 270 puntos|
 | 3   | [El elfo travieso](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%203) | 360 puntos|
 | 4   | [Dale la vuelta a los paréntesis](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%204) | 260 puntos|
-| 5   |  | |
+| 5   | [El cybertruck de Santa ](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%205) | 130 puntos|
 | 6   | [Los renos a prueba](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%206) | 350 puntos|
-| 7   |  | |
-| 8   |  | |
+| 7   | [Las cajas en 3D](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%207) | 140 puntos|
+| 8   | [Ordenando el almacén](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%208) | 130 puntos|
 | 9   | [Alterna las luces](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%209) | 380 puntos|
 | 10   | [Crea tu propio árbol de navidad](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2010) | 170 puntos|
 | 11   | | |
