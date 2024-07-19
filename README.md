@@ -30,5 +30,6 @@ El objetivo de este repositorio es el de servir de ayuda a quien lo vea, pero ta
 | 16   |  [Despliegue en viernes](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2016) | 25 puntos|
 | 17   | [Optimizando el alquiler](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2017) | 140 puntos|
 | 18   | [El reloj digital](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2018) | 40 puntos|
-
+| 19   | [Enfrenta el sabotaje](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2019) | 25 puntos|
+| 20   | [Distribuye el peso](https://github.com/miguelex/adventjs/tree/main/d%C3%ADa%2020) | 25 puntos|
 
